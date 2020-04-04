@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Tableau Dashboards 
 
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/World Indicators-6.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
