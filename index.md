@@ -4,7 +4,7 @@
 
 ### Tableau Dashboards 
 
-[Project 1 Title](/sample_page)
+[World Indicators](/sample_page)
 <img src="images/World Indicators-6.png?raw=true"/>
 
 ---
@@ -12,17 +12,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Excel Visualizations
+
+[Amazon-10K](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001018724/69682db4-0019-42ce-a4e1-983c30725f1b.pdf)
+<img src="images/Amazon-10K.png?raw=true"/>
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
 ---
