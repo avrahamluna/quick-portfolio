@@ -8,10 +8,6 @@
 <img src="images/World Indicators-6.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ### Excel Visualizations
 
@@ -20,7 +16,18 @@
 
 ---
 
-- [Project 5 Title](http://example.com/)
+### Data Visualizations
+
+[UBUNTU-OS](https://https://ubuntu.com/)
+<img src="images/UBUNTU-1.png?raw=true"/>
+
+[UBUNTU-OS](https://https://ubuntu.com/)
+<img src="images/UBUNTU-2.png?raw=true"/>
+
+
+---
+
+
 
 ---
 
@@ -28,5 +35,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:11px">Follow me on  <a href="https://github.com/avrahamluna/">Github</a></p>
 <!-- Remove above link if you don't want to attibute -->
