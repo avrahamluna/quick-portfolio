@@ -4,7 +4,7 @@
 
 ### Tableau Dashboards 
 
-[World Indicators](/sample_page)
+[World Indicators](/)
 <img src="images/World Indicators-6.png?raw=true"/>
 
 ---
