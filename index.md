@@ -27,13 +27,16 @@
 
 ---
 
+### Wordpress Ecommerce
+
+[TijuanaGeek](https://web.archive.org/web/20171008041420/http://tijuanageek.com/)
+<img src="images/Tijuanageek.png?raw=true"/>
+
+---
+
+
 
 
 ---
-
-
-
-
----
-<p style="font-size:11px">Follow me on  <a href="https://github.com/avrahamluna/">Github</a></p>
+<p style="font-size:11px">Follow me on  <a href="https://github.com/avrahamluna/">Github</a></p> | <p style="font-size:11px">Follow me on  <a href="https://linktr.ee/avrahamluna">Linktree</a></p>
 <!-- Remove above link if you don't want to attibute -->
