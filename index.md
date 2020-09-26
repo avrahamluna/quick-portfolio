@@ -38,5 +38,5 @@
 
 
 ---
-<p style="font-size:11px">Follow me on  <a href="https://github.com/avrahamluna/">Github</a> <p style="font-size:11px">Follow me on <a href="https://linktr.ee/avrahamluna">Linktree</a> </p>
+<p style="font-size:11px">Follow me on  <a href="https://github.com/avrahamluna/">Github</a> | Follow me on <a href="https://linktr.ee/avrahamluna">Linktree</a> </p>
 <!-- Remove above link if you don't want to attibute -->
