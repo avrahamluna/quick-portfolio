@@ -2,6 +2,13 @@
 
 ---
 
+### Amazon Quicksight Dashboards 
+
+[Sales Overview Dashboard](/)
+<img src="images/QS-Sales-Overview.png?raw=true"/>
+
+---
+
 ### Tableau Dashboards 
 
 [World Indicators](/)
