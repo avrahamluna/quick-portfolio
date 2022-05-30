@@ -1,8 +1,13 @@
 ## Portfolio
 
+### Splunk IT Operations Intelligence Dashboard 
+
+[Dashboard for DevOps Team](/)
+<img src="images/OPS-INT-SPLUNK.png?raw=true"/>
+
 ---
 
-### Amazon Quicksight Dashboards 
+### Amazon AWS Quicksight Dashboard 
 
 [Sales Overview Dashboard](/)
 <img src="images/QS-Sales-Overview.png?raw=true"/>
